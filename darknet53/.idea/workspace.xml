@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57f85298-e18f-41be-9341-b9e552a44e8a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/darknet53.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/darknet53.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pretrained_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/pretrained_train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1odgzCWcO0hF0cy0LefXLihqPbE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.pretrained_train">
+    <configuration name="f_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="darknet53" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/f_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="darknet53" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="darknet53" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pretrained_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="darknet53" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pretrained_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pretrained_train" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.f_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57f85298-e18f-41be-9341-b9e552a44e8a" name="Default Changelist" comment="" />
+      <created>1613676819837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613676819837</updated>
+      <workItem from="1613676820984" duration="4141000" />
+      <workItem from="1613933425070" duration="5756000" />
+      <workItem from="1614107114911" duration="1296000" />
+      <workItem from="1614194798111" duration="4943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="609" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613761308856">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="1071" y="294" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1080.-191.1080.1880@0.0.2560.1400" timestamp="1613715429532" />
+    <state x="609" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.954@0.23.1680.954" timestamp="1613761308856" />
+    <state width="1768" height="564" key="GridCell.Tab.0.bottom" timestamp="1614215694793">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1768" height="564" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1080.-191.1080.1880@0.0.2560.1400" timestamp="1614215694793" />
+    <state width="1068" height="459" key="GridCell.Tab.0.bottom/0.23.1920.981@0.23.1920.981" timestamp="1613942650807" />
+    <state width="1768" height="564" key="GridCell.Tab.0.center" timestamp="1614215694793">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1768" height="564" key="GridCell.Tab.0.center/0.0.2560.1400/-1080.-191.1080.1880@0.0.2560.1400" timestamp="1614215694793" />
+    <state width="1068" height="459" key="GridCell.Tab.0.center/0.23.1920.981@0.23.1920.981" timestamp="1613942650806" />
+    <state width="1768" height="564" key="GridCell.Tab.0.left" timestamp="1614215694793">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1768" height="564" key="GridCell.Tab.0.left/0.0.2560.1400/-1080.-191.1080.1880@0.0.2560.1400" timestamp="1614215694793" />
+    <state width="1068" height="459" key="GridCell.Tab.0.left/0.23.1920.981@0.23.1920.981" timestamp="1613942650805" />
+    <state width="1768" height="564" key="GridCell.Tab.0.right" timestamp="1614215694793">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1768" height="564" key="GridCell.Tab.0.right/0.0.2560.1400/-1080.-191.1080.1880@0.0.2560.1400" timestamp="1614215694793" />
+    <state width="1068" height="459" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1613942650806" />
+    <state width="1768" height="318" key="GridCell.Tab.1.bottom" timestamp="1614215419408">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1768" height="318" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1080.-191.1080.1880@0.0.2560.1400" timestamp="1614215419408" />
+    <state width="1068" height="326" key="GridCell.Tab.1.bottom/0.23.1920.981@0.23.1920.981" timestamp="1613774104547" />
+    <state width="1768" height="318" key="GridCell.Tab.1.center" timestamp="1614215419408">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1768" height="318" key="GridCell.Tab.1.center/0.0.2560.1400/-1080.-191.1080.1880@0.0.2560.1400" timestamp="1614215419408" />
+    <state width="1068" height="326" key="GridCell.Tab.1.center/0.23.1920.981@0.23.1920.981" timestamp="1613774104547" />
+    <state width="1768" height="318" key="GridCell.Tab.1.left" timestamp="1614215419408">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1768" height="318" key="GridCell.Tab.1.left/0.0.2560.1400/-1080.-191.1080.1880@0.0.2560.1400" timestamp="1614215419408" />
+    <state width="1068" height="326" key="GridCell.Tab.1.left/0.23.1920.981@0.23.1920.981" timestamp="1613774104547" />
+    <state width="1768" height="318" key="GridCell.Tab.1.right" timestamp="1614215419408">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1768" height="318" key="GridCell.Tab.1.right/0.0.2560.1400/-1080.-191.1080.1880@0.0.2560.1400" timestamp="1614215419408" />
+    <state width="1068" height="326" key="GridCell.Tab.1.right/0.23.1920.981@0.23.1920.981" timestamp="1613774104547" />
+    <state x="776" y="231" key="SettingsEditor" timestamp="1614194807182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="776" y="231" key="SettingsEditor/0.0.2560.1400/-1080.-191.1080.1880@0.0.2560.1400" timestamp="1614194807182" />
+    <state x="509" y="180" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1613761346509" />
+    <state x="582" y="185" key="SettingsEditor/0.23.1920.981@0.23.1920.981" timestamp="1613676847009" />
+    <state x="976" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1614107411645">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="976" y="348" key="com.intellij.ide.util.TipDialog/0.23.1920.981@0.23.1920.981" timestamp="1614107411645" />
+    <state x="1343" y="365" width="840" height="1034" key="search.everywhere.popup" timestamp="1614215011871">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1343" y="365" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400/-1080.-191.1080.1880@0.0.2560.1400" timestamp="1614215011871" />
+    <state x="1007" y="279" width="670" height="725" key="search.everywhere.popup/0.23.1920.981@0.23.1920.981" timestamp="1613938605460" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/f_test.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/f_test.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/f_test.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pretrained_train.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pretrained_train.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pretrained_train.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/darknet53$pretrained_train.coverage" NAME="pretrained_train Coverage Results" MODIFIED="1614215694788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/darknet53$f_test.coverage" NAME="f_test Coverage Results" MODIFIED="1613773299426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/darknet53$predict.coverage" NAME="predict Coverage Results" MODIFIED="1613942650799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/darknet53$model.coverage" NAME="model Coverage Results" MODIFIED="1613942624098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
